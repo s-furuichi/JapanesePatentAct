@@ -20,3 +20,7 @@ JapanesePatentAct
 * [第十章　雑則（第百八十五条－第百九十五条の二）](chapter10.md)
 * [第十一章　罰則（第百九十六条－第二百四条）](chapter11.md)
 * [附則](supplement.md)
+
+##改正履歴
+
+* 昭和37年10月1日　改正
